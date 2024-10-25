@@ -1,4 +1,4 @@
-heroes_pool_ma = {
+heroes_pool_ma = (
     "Alarak",
     "Illidan",
     "Kerrigan",
@@ -9,4 +9,4 @@ heroes_pool_ma = {
     "The Butcher",
     "Valeera",
     "Zeratul"
-}
+)

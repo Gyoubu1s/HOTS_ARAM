@@ -1,8 +1,8 @@
-heroes_pool_tanks = {
+heroes_pool_tanks = (
     "Anub'arak",
     "Artanis",
     "Blaze",
-    "Cho",
+    #"Cho",
     "Diablo",
     "E.T.C.",
     "Garrosh",
@@ -12,4 +12,4 @@ heroes_pool_tanks = {
     "Muradin",
     "Stitches",
     "Tyrael"
-}
+)

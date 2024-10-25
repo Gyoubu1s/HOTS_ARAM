@@ -1,9 +1,7 @@
-heroes_pool_healer = {
+heroes_pool_healer = (
     "Alexstrasza",
-    "Ana",
     "Anduin",
     "Auriel",
-    "Brightwing",
     "Deckard",
     "Kharazim",
     "Li Li",
@@ -12,7 +10,6 @@ heroes_pool_healer = {
     "Malfurion",
     "Rehgar",
     "Stukov",
-    "Tyrande",
     "Uther",
     "Whitemane"
-}
+)

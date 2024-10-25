@@ -1,4 +1,4 @@
-heroes_pool_bruisers = {
+heroes_pool_bruisers = (
     "Artanis",
     "Chen",
     "Deathwing",
@@ -16,4 +16,4 @@ heroes_pool_bruisers = {
     "Varian",
     "Xul",
     "Yrel"
-}
+)

@@ -1,10 +1,10 @@
-heroes_pool_ra = {
+heroes_pool_ra = (
     "Azmodan",
     "Cassia",
     "Chromie",
     "Falstad",
     "Fenix",
-    "Gall",
+    #"Gall",
     "Genji",
     "Greymane",
     "Gul'dan",
@@ -29,4 +29,4 @@ heroes_pool_ra = {
     "Valla",
     "Zagara",
     "Zul'Jin"
-}
+)

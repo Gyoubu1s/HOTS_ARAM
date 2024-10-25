@@ -1,5 +1,5 @@
-heroes_pool = {
-    "Abathur",
+heroes_pool = (
+    #"Abathur",
     "Alarak",
     "Alexstrasza",
     "Ana",
@@ -13,7 +13,7 @@ heroes_pool = {
     "Brightwing",
     "Cassia",
     "Chen",
-    "Cho",
+    #"Cho",
     "Chromie",
     "Deathwing",
     "Deckard",
@@ -23,7 +23,7 @@ heroes_pool = {
     "E.T.C.",
     "Falstad",
     "Fenix",
-    "Gall",
+    #"Gall",
     "Garrosh",
     "Gazlowe",
     "Genji",
@@ -72,7 +72,7 @@ heroes_pool = {
     "Sylvanas",
     "Tassadar",
     "The Butcher",
-    "The Lost Vikings",
+    #"The Lost Vikings",
     "Thrall",
     "Tracer",
     "Tychus",
@@ -89,4 +89,4 @@ heroes_pool = {
     "Zarya",
     "Zeratul",
     "Zul'Jin"
-}
+)
