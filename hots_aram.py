@@ -36,3 +36,5 @@ team1 = create_team()
 team2 = create_team()
 print(f'Team 1 Composed of: {team1}')
 print(f'Team 2 Composed of: {team2}')
+
+#TODO fix the formatting on the print so that teams are split side by side and character choices below them if possible
