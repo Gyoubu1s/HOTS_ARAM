@@ -1,1 +1,7 @@
-#how many times to test until I am right
+import heroes_pool
+import heroes_pool_tanks
+import heroes_pool_bruiser
+import heroes_pool_melee_assassin
+import heroes_pool_ranged_assassin
+import heroes_pool_support
+import heroes_pool_healer

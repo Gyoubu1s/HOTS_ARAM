@@ -1,0 +1,19 @@
+heroes_pool_bruisers = {
+    "Artanis",
+    "Chen",
+    "Deathwing",
+    "Dehaka",
+    "D.Va",
+    "Gazlowe",
+    "Hogger",
+    "Imperius",
+    "Leoric",
+    "Malthael",
+    "Ragnaros",
+    "Rexxar",
+    "Sonya",
+    "Thrall",
+    "Varian",
+    "Xul",
+    "Yrel"
+}
